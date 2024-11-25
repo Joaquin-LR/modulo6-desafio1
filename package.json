@@ -1,0 +1,12 @@
+{
+  "name": "desafio1",
+  "version": "1.0.0",
+  "description": "Veterinaria",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Joaquin Lopez Rojas",
+  "license": "ISC"
+}
